@@ -71,7 +71,7 @@ Each player also has their own private inventory of items and information. When 
 
 The group will also have some cash, which any player can spend any amount of at any time. Some players may also have private amounts of cash.
 
-Skilled actions require dice rolls, as declared by the Spy Master. If the player rolls less than the amount needed for success, a player can use cash to buy increases to the rolled value for the price of $100 per +1 point, unless the Spy Master declares otherwise.
+Skilled actions require dice rolls, as declared by the Spy Master. If the player rolls less than the amount needed for success, a player can use cash to buy increases (or decreases) to the rolled value for the price of $100 per 1 point, unless the Spy Master declares otherwise.
 
 Cash can also be used directly for bribes and purchasing information from assets without the need for dice rolls.
 
