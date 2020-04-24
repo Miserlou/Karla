@@ -103,6 +103,7 @@ Action counters may apply to certain player actions as well, such as those invol
 ## TODO
 
 * Devise a quarantine-specific set of rule modifications
+* Covert Actions
 * Come up with a "One Shot" (_Prelude in London_)
 * Write up the "Five Shot" (_The Swiss Fiasco_, _Smiley's Gambit_, _Centre of the Centre_, _Boss of all Bosses_, _The Crystal Tower_)
 
