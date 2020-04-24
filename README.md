@@ -75,6 +75,10 @@ Skilled actions require dice rolls, as declared by the Spy Master. If the player
 
 Cash can also be used directly for bribes and purchasing information from assets without the need for dice rolls.
 
+### Covert Actions
+
+Once per scene, a player may perform a covert action. The player writes down their action on a piece of paper and hands it to the Spy Master, who will accept or reject the action. If the action is accepted, then the action succeeds, but the Spy Master doesn't announce what occured, unless there is a visible result of the action. If it's a skilled covert action then it may require a dice roll. If the action is rejected outright, the player may perform a different action.
+
 ### Combat
 
 Very occasionally, players may need to engage in combat. Gun shots and knife attacks will always require a 6 (1d6) to land on target, and kicks and punches require a 5 (1d6). Injuries are realistic.
@@ -103,7 +107,6 @@ Action counters may apply to certain player actions as well, such as those invol
 ## TODO
 
 * Devise a quarantine-specific set of rule modifications
-* Covert Actions
 * Come up with a "One Shot" (_Prelude in London_)
 * Write up the "Five Shot" (_The Swiss Fiasco_, _Smiley's Gambit_, _Centre of the Centre_, _Boss of all Bosses_, _The Crystal Tower_)
 
