@@ -17,6 +17,7 @@ The other primary difference is that consequences in the game story are not the 
 * **Pen and paper** for each player 📝📝📝📝
 * 1 **Mission Assignment** for each player ✉️
 * 1 **privacy screen** for each player
+* 1-3 **cocktails** per player, preferably Gin or Scotch.
 * A set of **game dice** for each player 🎲🎲🎲🎲
 
 ## Basic Overview
@@ -31,7 +32,7 @@ However, each player also has a private goal that only they know about. These go
 
 The group wins if they successfully complete Smiley's mission and an individual wins if they complete their own.
 
-## Personas and Mission Assignments
+## Personas and Mission Assignments 👤📋
 
 _TL;DR: Players are given Personas and a Mission Assignment. Their advantages come not from statistics, but from the information which is only available to them._
 
@@ -61,29 +62,33 @@ This will usually mean things like investigating murders, recruiting foreign ass
 
 When objectives are completed, players are given cash rewards and new equipment.
 
-### Public and Private Inventories
+### Public and Private Inventories 📝
 
 The group will have an open inventory of collected information and clue items.
 
 Each player also has their own private inventory of items and information. When new inventory items and information are acquired through an invdividual action, that information is given to the player privately by the Spy Master. The player may or may not reveal that information to the group as part of that same turn. (ex., _"I search the pockets of the dead body." (The SM writes down a telephone number and hands it to the player, who looks at it). "Okay, I'll add this to the group inventory"_).
 
-### Cash
+### Cash 💷
 
 The group will also have some cash, which any player can spend any amount of at any time. Some players may also have private amounts of cash.
 
-Skilled actions require dice rolls, as declared by the Spy Master. If the player rolls less than the amount needed for success, a player can use cash to buy increases (or decreases) to the rolled value for the price of $100 per 1 point, unless the Spy Master declares otherwise.
+Skilled actions require dice rolls, as declared by the Spy Master. If the player rolls less than the amount needed for success, a player can use cash to buy increases (or decreases) to the rolled value for the price of £100 per 1 point, unless the Spy Master declares otherwise.
 
 Cash can also be used directly for bribes and purchasing information from assets without the need for dice rolls.
 
-### Covert Actions
+### Covert Actions 🤫
 
-Once per scene, a player may perform a covert action. The player writes down their action on a piece of paper and hands it to the Spy Master, who will accept or reject the action. If the action is accepted, then the action succeeds, but the Spy Master doesn't announce what occured, unless there is a visible result of the action. If it's a skilled covert action then it may require a dice roll. If the action is rejected outright, the player may perform a different action.
+Once per scene, a player may perform a covert action. The player writes down their action on a piece of paper and hands it to the Spy Master, who will accept or reject the action. The action succeeds if it's accepted and the Spy Master doesn't announce the action, only visible results of the action.
 
-### Combat
+If it's a skilled covert action then it may require a dice roll. If the action is rejected outright, the player may perform a different action.
+
+(ex., _A player states, "I wish to perform this covert action." (Hands Spy Master paper with "I Put The Poison in the Tea" written on it.) The Spy Master says "accepted, roll." The player rolls a six. The Spy Master says, "The action succeeds."_)
+
+### Combat 🔫
 
 Very occasionally, players may need to engage in combat. Gun shots and knife attacks will always require a 6 (1d6) to land on target, and kicks and punches require a 5 (1d6). Injuries are realistic.
 
-Players have no hit points, but can be injured or captured, resulting in a failed mission. If too many players are captured, a mission is over. Players can continue in the next chapter of a campaign after a prisoner exchange, though this will deplete all of their cash reserves.
+Players have no hit points, but can be seriously injured or captured, resulting in a failed mission. If too many players are captured, a mission is over. Players can continue in the next chapter of a campaign after a prisoner exchange, though this will deplete all of their cash reserves.
 
 <!--## Gameplay 🎲
 
@@ -94,15 +99,17 @@ Players have no hit points, but can be injured or captured, resulting in a faile
 
 ## Spy Mastering
 
-### Scenes
+### Scenes 🎬
 
 A campaign is a collection of scenes. It may take information or actions to reach a scene, or they may happen as the result of the passage of time.
 
-### Action Counters
+### Action Counters 🕒
  
 Non-player actions in scenes happens after a number of action counters (one per player-turn). For instance, after five actions in an an intrusion scene, a new security guard character may enter and discover the players.
 
 Action counters may apply to certain player actions as well, such as those involving certain gadgets, such as wiretaps, which may reveal information after 20 actions, though the number of actions it may take may be unknown to the player.
+
+Some missions may have global action counters, which start at the beginning and carry across scenes. (ex, _"The kidnapped prisoner will be executed in 50 actions unless he is released before then."_)
 
 ## TODO
 
