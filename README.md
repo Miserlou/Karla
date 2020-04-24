@@ -1,5 +1,5 @@
 ![Smiley vs. Karla](https://i.imgur.com/f5mNZdS.jpg)
-# Smiley vs. Karla ![0.0.0](https://img.shields.io/badge/version-0.0.1-brightgreen.svg)
+# Smiley vs. Karla ![0.0.1](https://img.shields.io/badge/version-0.0.1-brightgreen.svg)
 ## A Game of Pen and Paper Espionage
 ### By Rich Jones
 
@@ -31,13 +31,13 @@ However, each player also has a private goal that only they know about. These go
 
 The group wins if they successfully complete Smiley's mission and an individual wins if they complete their own.
 
-## Characters
+## Personas and Mission Assignments
 
 _TL;DR: Players are given Personas and a Mission Assignment. Their advantages come not from statistics, but from the information which is only available to them._
 
 At the beginning of the campaign, each player chooses a Persona and is given a Mission Assignment. 
 
-The persona gives a description of the character to role play with, but will not affect the result of a players actions - ie, there are no "stats" in this game - though the Spy Master may provide the player with easier dice roll checks based on how well the player is integrating the Persona in the game world.
+The Persona gives a description of the character to role play with, but will not affect the result of a players actions - ie, there are no "stats" in this game - though the Spy Master may provide the player with easier dice roll checks based on how well the player is integrating the Persona in the game world.
 
 The Mission Assignment will contain private goals for that player, and any necessary information and inventory items to achieve that goal.
 
@@ -75,26 +75,41 @@ Skilled actions require dice rolls, as declared by the Spy Master. If the player
 
 Cash can also be used directly for bribes and purchasing information from assets without the need for dice rolls.
 
-<!-- ##### Action Counters -->
-
 ### Combat
 
 Very occasionally, players may need to engage in combat. Gun shots and knife attacks will always require a 6 (1d6) to land on target, and kicks and punches require a 5 (1d6). Injuries are realistic.
 
-Players have no hit points, but can be injured or captured, resulting in a failed mission.
+Players have no hit points, but can be injured or captured, resulting in a failed mission. If too many players are captured, a mission is over. Players can continue in the next chapter of a campaign after a prisoner exchange, though this will deplete all of their cash reserves.
 
 <!--## Gameplay 🎲
 
 ### Exploration 🔍
 
 ### Interaction 💬
-
-### Combat ⚔-->
+-->
 
 ## Spy Mastering
 
-### Character Names
-Koby Sharp
-Henry Cooper
-Magnus White
-Elliot Brooks 
+### Scenes
+
+A campaign is a collection of scenes. It may take information or actions to reach a scene, or they may happen as the result of the passage of time.
+
+### Action Counters
+ 
+Non-player actions in scenes happens after a number of action counters (one per player-turn). For instance, after five actions in an an intrusion scene, a new security guard character may enter and discover the players.
+
+Action counters may apply to certain player actions as well, such as those involving certain gadgets, such as wiretaps, which may reveal information after 20 actions, though the number of actions it may take may be unknown to the player.
+
+## TODO
+
+* Devise a quarantine-specific set of rule modifications
+* Come up with a "One Shot" (_Prelude in London_)
+* Write up the "Five Shot" (_The Swiss Fiasco_, _Smiley's Gambit_, _Centre of the Centre_, _Boss of all Bosses_, _The Crystal Tower_)
+
+## Miscellaneous Notes
+
+### Some Persona Names
+* Koby Sharp
+* Henry Cooper
+* Magnus White
+* Elliot Brooks 
