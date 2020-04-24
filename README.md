@@ -53,7 +53,7 @@ Although there are very few rules, the world is not a forgiving one. This is the
 
 ### Mechanics
 
-#### General Objectives
+### General Objectives
 
 At any given time, there will be a number of current assignments given to them by the Spy Master. 
 
