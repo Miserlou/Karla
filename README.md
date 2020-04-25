@@ -13,6 +13,35 @@ Unlike most pen and paper role playing games, _Smiley vs. Karla_ is not a strict
 
 The other primary difference is that consequences in the game story are not the result of character sheet statistics and dice rolls, but on the intentional decisions made by players based on privately held information.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+  - [Requirements](#requirements)
+  - [Basic Overview](#basic-overview)
+  - [Personas and Mission Assignments 👤📋](#personas-and-mission-assignments-%F0%9F%91%A4%F0%9F%93%8B)
+  - [Rules](#rules)
+    - [Mechanics](#mechanics)
+    - [General Objectives](#general-objectives)
+    - [Public and Private Inventories 📝](#public-and-private-inventories-%F0%9F%93%9D)
+    - [Cash 💷](#cash-%F0%9F%92%B7)
+    - [Covert Actions 🤫](#covert-actions-%F0%9F%A4%AB)
+    - [Combat 🔫](#combat-%F0%9F%94%AB)
+    - [Connie Sachs 🍸](#connie-sachs-%F0%9F%8D%B8)
+    - [Under Suspicion 👀](#under-suspicion-%F0%9F%91%80)
+    - [Exposing Traitors 🐀](#exposing-traitors-%F0%9F%90%80)
+  - [Spy Mastering](#spy-mastering)
+    - [Scenes 🎬](#scenes-%F0%9F%8E%AC)
+    - [Action Counters 🕒](#action-counters-%F0%9F%95%92)
+  - [TODO](#todo)
+  - [Miscellaneous Notes](#miscellaneous-notes)
+    - [Some Persona Names](#some-persona-names)
+    - [Basic Scene Ideas](#basic-scene-ideas)
+    - [Basic Locale Ideas](#basic-locale-ideas)
+    - [Basic Inventory Ideas](#basic-inventory-ideas)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Requirements
 
 * 3-4 **players** + 1 **Spy Master** 🕵️🕵️🕵️🕵️
@@ -182,9 +211,14 @@ Some missions may have global action counters, which start at the beginning and 
 * Cabin
 * Cathederal
 * Train
+* Cafe
+* Alley
 * Dockyard
 * Train yard
 * Forest
+* Trailer Park
+* Mountain Chalet
+* Castle
 * Little Saint James
 
 ### Basic Inventory Ideas
