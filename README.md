@@ -3,7 +3,9 @@
 ## A Game of Pen and Paper Espionage
 ### By Rich Jones
 
-_**Smiley vs. Karla**_ is a role-playing game for 3 to 5 players set in the world of Cold War spy novels by John Le Carré.
+_TL;DR: Karla vs. Smiley is a realistic spy RPG where players will need to solve puzzles and deceive each other._
+
+_**Smiley vs. Karla**_ is an espionage role-playing game for 3 to 5 players set in the world of John Le Carré's cold war spy novels.
 
 The game is a bit different than other role playing game in that there is far less focus on chaotic fantastical combat and far more focus on investigation, intrigue and deception.
 
@@ -17,12 +19,11 @@ The other primary difference is that consequences in the game story are not the 
 * **Pen and paper** for each player 📝📝📝📝
 * 1 **Mission Assignment** for each player ✉️
 * 1 **privacy screen** for each player
-* 1-3 **cocktails** per player, preferably Gin or Scotch.
+* 1-3 **cocktails** per player, preferably Gin or Scotch. 🍸🍸🍸
+* Some **speakers** to set the tone. I recommend [doom jazz](https://www.youtube.com/watch?v=5Bm9F3GFnik). 🔈
 * A set of **game dice** for each player 🎲🎲🎲🎲
 
 ## Basic Overview
-
-_TL;DR:_
 
 _**Smiley vs. Karla**_ is an espionage role playing game. The game is played by 3-4 **player characters**, who play as spies employed by the British intelligence services (_"The Circus"_), and one **Spy Master**, who controls the context of the adventure and plays as the **non-player characters**, some of whom will be assets of the Russian intelligence services (_"Moscow Centre"_).
 
@@ -90,6 +91,26 @@ Very occasionally, players may need to engage in combat. Gun shots and knife att
 
 Players have no hit points, but can be seriously injured or captured, resulting in a failed mission. If too many players are captured, a mission is over. Players can continue in the next chapter of a campaign after a prisoner exchange, though this will deplete all of their cash reserves.
 
+### Connie Sachs 🍸
+
+If players get stuck, they can usually go and visit The Circus' top Soviet researcher, Connie Sachs. She can help the players identif the suspects and piece together the clues they have gathered, though she may take a bit of social lubrication first. Use her too much, however, and Smiley will dock your pay for not doing your own jobs.
+
+### Under Suspicion 👀
+
+On their turn, a player may use their action to try to place another player "under suspicion".
+
+First, they nominate the other player they wish to place under suspicion. Then, a second player must support the nomination by saying "seconded." The nominating player then presents their case to the Spy Master. If the Spy Master agrees that their evidence is plausible, the motion passes. If not, the player loses their action.
+
+If the motion is approved, the suspect is then placed under suspcion. That player will still get their turn on the next action, but they will not be able to spend money from the group's public funds or use items from the group's public inventory, and all of their covert actions will require a roll of a 5 or a 6 to perform. They may still spend their private money and use items from their private inventory.
+
+Only a single player can be placed under suspicion at a time, and placing a new player under suspicion will replace the old one.
+
+### Exposing Traitors 🐀
+
+In the final scene of a campaign, the players will have an opportunity to expose the traitors of the group. The Spy Master will anounce that it's time for the debrief, and every player will have an opportunity to state their case about who they think the traitor is.
+
+There will then be a vote. Each player gets one vote for any of the nominated traitors. The person with the most votes is then nominated as the traitor (if there is a tie, then the Spy Master casts the deciding vote). The Spy Master then asks - "So, are you the traitor?" If so, they must reveal themself and are captured, and the group completes the campaign successfully and is given a bonus. If not, then the group fails the campaign and is given no reward. 
+
 <!--## Gameplay 🎲
 
 ### Exploration 🔍
@@ -123,4 +144,74 @@ Some missions may have global action counters, which start at the beginning and 
 * Koby Sharp
 * Henry Cooper
 * Magnus White
-* Elliot Brooks 
+* Elliot Brooks
+
+### Basic Scene Ideas
+* Tailing a suspect
+* Hunting down a witness
+* Breaking, entering and exfiltration
+* Assasination
+* Kidnapping
+* Interrogation
+* Escape
+* Framing and Extortion
+
+### Basic Locale Ideas
+* Hotel
+* Bar
+* Casino
+* House
+* Apartment
+* Office
+* Restaurant
+* Gentleman's Club
+* Night Club
+* Sex Club
+* Eyes Wide Shut-esque Orgy
+* Pool Hall
+* Archives
+* Opera
+* Plane
+* Submarine
+* Court Room (Trial)
+* Prison (Visitation)
+* Mansion
+* Posh Party
+* Opium Den
+* Sauna
+* Cabin
+* Cathederal
+* Train
+* Dockyard
+* Train yard
+* Forest
+* Little Saint James
+
+### Basic Inventory Ideas
+* Poloroid
+* Microfilm Camera
+* Wiretap
+* Microcasette Recorder
+* Truth Serum
+* Poison
+* Cypher
+* Poison Lipstick
+* Spy Camera Glasses
+* Microphone Lapel
+* Rope
+* Cufflink Garatte
+* Shoe Knives
+* Pollonium Dart
+* Lock Pick
+* Silencer
+* Tuxedo
+* Micropistol
+* Radio
+* Tracker
+* Document Copier/Printer
+* Safe Cracker
+* Heroin, Cocaine
+* Flask
+* Knife
+* Duck Tape
+* Rappelling Grappel
