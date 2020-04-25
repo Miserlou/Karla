@@ -32,35 +32,149 @@ These should be printed out and **placed into envelopes** and **randomly assigne
 You're Smiley's top man! Your dilligent work attitude and upstanding moral fortitude have made you the most trusted man inside The Circus. One evening, Smiley invited you to his home and told you that he has reason to believe his worst fear has come true - there is a mole inside the Circus, and he wants you to sort them out.
 
 Your mission: Find the mole! To complete your mission, you must: 
-	a) make sure the group completes all of their Mission Objectives and that 
-	b) the Mole is exposed during the debrief!
+
+ * a) make sure the group completes all of their Mission Objectives and that 
+ * b) the Mole is exposed during the debrief!
+
+##### Starting Inventory
+
+* Cash: £500
+* Pistol, 10 Bullets
+* Benson and Hedges Cigarettes
+* Rope
+* Gaffa Tape (Duct Tape to Americans)
+* Microfilm Viewer
 
 #### You're a Crook's Brother!
 
 Unbeknownst to the Circus, you're the third brother of the Kray brothers who now run the London underworld. You've had to change your name to work at the Circus and you're still loyal to your country, but blood runs thicker than water. Protect your brothers from being killed or captured!
 
 Your mission: Keep your brothers safe! To complete your mission succesfully, you must:
-	a) Prevent Ronnie Kray from being killed or captured
-	b) Prevent Reggie Kray from being killed or captured
-	c) Prevent the other members of the group from learning your true identity! 
+
+ * a) Prevent Ronnie Kray from being killed or captured
+ * b) Prevent Reggie Kray from being killed or captured
+ * c) Prevent the other members of the group from learning your true identity! 
+
+##### Starting Inventory
+
+* Cash: £2,000
+* Pistol, 7 Bullets
+* Rothmans King Size Cigarettes
+* Poloroid Camera
+* Jack Knife (Sleeve)
 
 #### You are the Mole!
 
 After one of The Firm's goons recognized you in one of your occasional jaunts to their pleasure houses, you have been blackmailed into working for Karla. For six months you have been sending secret documents back to Moscow Centre using The Firm as a courier.
 
-Your mission: Sabotage a mission objective of the group and avoid detection! To complete your mission succesfully, you must a) prevent the group from completing all of their mission objectives and b) remain undetected during the debrief.
+Your mission: Sabotage a mission objective of the group and avoid detection! To complete your mission succesfully, you must
+
+* a) prevent the group from completing all of their mission objectives and 
+* b) remain undetected during the debrief.
+
+##### Starting Inventory
+
+* Cash: £10,000
+* Pistol, 10 Bullets
+* Benson and Hedges Cigarettes
+* Microfilm Camera
+* Microfilm Viewer
+* Cyanide Capsule (4 Action Counter Effect)
 
 #### You're a Junkie!
 
-Unbeknownst to your collegues, you have quietly developed a baggie-a-day heroin habit that's quickly turning into a lots-of-baggies-a-day heroin habit. You're still loyal to your country, but if your habit is discovered, you contract with the Circus will be terminated.
+Unbeknownst to your collegues, you have quietly developed a baggie-a-day heroin habit that's quickly turning into a quite-a-few-baggies-a-day heroin habit. You're still loyal to your country, but if your habit is discovered, you contract with the Circus will be terminated.
 
-Your mission: Acquire and use heroin! To complete your mission succesfully, you must a) acquire more heroin and b) get that heroin into your body.
+Your mission: Acquire and use heroin! To complete your mission succesfully, you must 
+
+* a) acquire more heroin and 
+* b) get that heroin into your body (at least twice!)
+
+##### Starting Inventory
+
+* Cash: £0
+* Pistol, 0 Bullets
+* Player's No. 6 Cigarettes
+* Needle
+* Spoon
+* Lighter
 
 ## A Prelude In London
+
+### Plot Map
+
+* Briefing
+* Judge and Jury
+* West End Club (Day)
+* East End Pleasure House
+* Tanya's Apartment
+* River Warehouse
+* The Circus
+* West End Club
 
 ### Briefing
 
 > Gentlemen. 
+> 
+
+### The Judge and Jury
+
+#### Action Counters
+
+* 2: The regulars start becoming hostile
+* 4: Screaming from the back room
+* 8: The police are coming
+* 10: Two local policemen arrive
+
+### West End Club (Day)
+
+#### Action Counters
+
+ * 3: Lord Boothby arrives to fetch his wallet
+
+### East End Pleasure House
+
+#### Possible Actions
+
+* Look: Torn Photograph of the Kray Brothers
+* Look (Back Room): Spy Cameras
+
+#### Action Counters
+
+* 1: Hostess Greeting
+* 6: Beckoning Geisha
+
+### Miko's Apartment
+
+#### Possible Actions
+
+#### Action Counters
+
+6: Reggie Kray's goons arrive. Miko shows fire escape.
+7: Goons knock harder.
+9: Goons knock down door.
+
+### Warehouse
+
+#### Possible Actions
+
+#### Action Counters
+
+### West End Club (Night)
+
+#### Possible Actions
+
+#### Action Counters
+
+### West End Club Back Room
+
+#### Possible Actions
+
+#### Action Counters
+
+* 7 (if helped Richardson): Attack by the Torture Gang
+
+### Debrief
 
 ### Non-Player Characters
 
@@ -68,7 +182,7 @@ Your mission: Acquire and use heroin! To complete your mission succesfully, you 
 
 Suave, sophisticated, ruthless.
 
-A charming rogue and accomplished gangster. Sees himself as a local royalty and the undisputed king of the London underworld. Enjoys the finer things in life and socializing with the celebrities and A-listers of West Lonon.
+A charming rogue and accomplished gangster. Sees himself as a local royalty and the undisputed king of the London underworld. Enjoys the finer things in life and socializing with the celebrities and A-listers of West London. An accomplished boxer in his youth, Ronnie is still lethal with his hands.
 
 #### Reggie Kray
 
@@ -76,18 +190,23 @@ Crude, brutal, feared.
 
 A homosexual power-mad gangster with bipolar disorder who runs all manner of vice in East London.
 
-### Locations
+#### Charlie Richardson
 
-#### The Circus
+Tough, violent, scorned.
 
-#### West End Club
+The leader of the Torture Gang who used to run the London underworld until the Kray gang muscled him out. Known for his elaborate mock trials and torture of his enemies. Previously a major boss, he is now relegated to his own pub, The Judge and Jury.
 
-#### East End Pleasure House
+#### Lord Boothby
 
-#### Thames Warehouse
+A prominant member of the house of Lords, known as a regular of the London nightlife.
 
-#### The Judge and Jury
+A closeted homosexual and frequenter of the West End Nightclub. Being blackmailed by Krays for his indescretions at the pleasure house.
 
+#### Miko
+
+Real name, Caity Burns.
+
+A 19 year old East London native who works as a prostitute at the pleasure house. Owes a significant outstanding debt to Reggie Kray.
 
 ## Copyright
 
