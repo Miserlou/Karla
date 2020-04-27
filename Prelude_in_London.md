@@ -132,9 +132,20 @@ Hand players clue one: Flight Receipt.
 
 > Now, the other thing. As you might have heard in the hallways, one of best agents on the other side of the curtain was blown. Barely made it out alive. It seems, chaps, that our ship has sprung a leak. The only people - one of you is playing both sides. Keep an eye out for any funny business and report back to me with your findings once you've cleaned up the mess.
 
-> We can't get near the Krays, but the birdies are chirping that the Krays have muscled out Charlie Richardson and his Torture Gang - a lovely lot, I'm sure - to take over everything south of river, East and West London under a single boss. The enemy of our enemy is our friend, as you all know by now, so go and see Charlie and see what you can find out on the Krays.
+> We can't get near the Krays, but the birdies are chirping that the Krays have muscled out Charlie Richardson and his so called Torture Gang - a lovely lot, I'm sure - to take over everything south of river, East and West London under a single boss. The enemy of our enemy is our friend, as you all know by now, so go and see Charlie and see what you can find out on the Krays. I've put a thousand pounds in to your coffers, spend it wisely.
 
 > Any questions?
+
+#### Action Counters
+
+* 4: A secretary comes in with an urgent call for Smiley. He tells the group to get to work.
+
+#### Mission Assets
+
+* **Mission objective: Find the heroin supply!**
+* **Mission objective: Find the Eastern connection!**
+* **Group clue acquired: Cargo receipt**
+* **Group cash acquired: 1000 GBP**
 
 ### The Judge and Jury
 

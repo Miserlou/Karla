@@ -3,7 +3,7 @@
 ## A Game of Pen and Paper Espionage
 ### By Rich Jones
 
-_TL;DR: Karla vs. Smiley is a realistic spy RPG where players will need to solve puzzles and deceive each other._
+_TL;DR: Karla vs. Smiley is a realistic spy RPG where players will need to find clues, solve puzzles and deceive each other._
 
 _**Smiley vs. Karla**_ is an espionage role-playing game for 3 to 5 players set in the world of John Le Carré's cold war spy novels.
 
