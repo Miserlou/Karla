@@ -29,7 +29,7 @@ These should be printed out and **placed into envelopes** and **randomly assigne
 
 #### You're a Mole Hunter!
 
-You're Smiley's top man! Your dilligent work attitude and upstanding moral fortitude have made you the most trusted man inside The Circus. One evening, Smiley invited you to his home and told you that he has reason to believe his worst fear has come true - there is a mole inside the Circus, and he wants you to sort them out.
+You're Smiley's top man! Your dilligent work attitude and upstanding moral fortitude have made you the most trusted man inside The Circus. One evening, Smiley invited you to his home and told you that he has reason to believe his worst fear has come true - there is a mole inside the Circus, and he wants you to suss them out.
 
 Your mission: Find the mole! To complete your mission, you must: 
 
@@ -60,6 +60,7 @@ Your mission: Keep your brothers safe! To complete your mission succesfully, you
 * Cash: £2,000
 * Pistol, 7 Bullets
 * Rothmans King Size Cigarettes
+* Gordon's Dry Gin, 1 pint
 * Poloroid Camera
 * Jack Knife (Sleeve)
 
@@ -95,7 +96,7 @@ Your mission: Acquire and use heroin! To complete your mission succesfully, you 
 * Cash: £0
 * Pistol, 0 Bullets
 * Player's No. 6 Cigarettes
-* Needle
+* Needle (Empty)
 * Spoon
 * Lighter
 
@@ -113,9 +114,27 @@ Your mission: Acquire and use heroin! To complete your mission succesfully, you 
 * West End Club
 
 ### Briefing
+#### Top Floor the Circus
 
-> Gentlemen. 
-> 
+> Gentlemen. Please, take a seat. Some of you have been up here many times, but for others of you, this is your first time on the top floor. Welcome. 
+
+> Let me get right to the point. We've had a tip passed over to us from Scotland Yard, of all places.. maybe they are good for something after all. Seems the drugs squad has seen an uptick in particularly strong heroin on the streets in the past six months. The proper stuff, right from godesses tit, or so I'm told. Shaking down the usual suspects turned up diddly, so they've been running an undercover in the Kray gang. Ronnie and Reggie, I'm sure you've seen them in the papers. Last night, they pulled the undercover's body out of the Thames. Throat cut. Back to square one for the Yardies.
+
+> Funny thing, though. They pulled this out of his pocket.
+
+Hand players clue one: Flight Receipt.
+
+> Кабул в Москву, Москва в Берн, Берн в Лондон
+
+> Scotland Yard didn't have a clue what to make of it, so they handed it over to us. I know your Russian isn't quite as good as it says your cirriculum vitae, so I've had Connie translate it for your convenience. It's a commercial cargo flight receipt: Kabul to Bern, Bern to London. Rugs, it says on the tin, but I doubt Ronnie Cray has too much use for a plane full of rugs. The signature has been torn off so we don't know who exactly received it, but looks like it landed last night. Heathrow has no record of it being picked up. Up and vanished.
+
+> So, a shipment of pure Soviet heroin somewhere on the streets of London and dead police undercover, and I want you chaps to track down the heroin and find out what the connection to Russia is. If you can take down the crooks running the operation, all the better, but don't get yourselves killed doing Scotland Yard's job for them.
+
+> Now, the other thing. As you might have heard in the hallways, one of best agents on the other side of the curtain was blown. Barely made it out alive. It seems, chaps, that our ship has sprung a leak. The only people - one of you is playing both sides. Keep an eye out for any funny business and report back to me with your findings once you've cleaned up the mess.
+
+> We can't get near the Krays, but the birdies are chirping that the Krays have muscled out Charlie Richardson and his Torture Gang - a lovely lot, I'm sure - to take over everything south of river, East and West London under a single boss. The enemy of our enemy is our friend, as you all know by now, so go and see Charlie and see what you can find out on the Krays.
+
+> Any questions?
 
 ### The Judge and Jury
 
@@ -128,16 +147,20 @@ Your mission: Acquire and use heroin! To complete your mission succesfully, you 
 
 ### West End Club (Day)
 
+#### Possible 
+
 #### Action Counters
 
  * 3: Lord Boothby arrives to fetch his wallet
+ * 
 
 ### East End Pleasure House
 
-#### Possible Actions
+#### Protential Actions
 
 * Look: Torn Photograph of the Kray Brothers
 * Look (Back Room): Spy Cameras
+* Cause too much trouble/don't pay: Bouncer tries to prevent them without paying
 
 #### Action Counters
 
@@ -184,6 +207,8 @@ Suave, sophisticated, ruthless.
 
 A charming rogue and accomplished gangster. Sees himself as a local royalty and the undisputed king of the London underworld. Enjoys the finer things in life and socializing with the celebrities and A-listers of West London. An accomplished boxer in his youth, Ronnie is still lethal with his hands.
 
+Ronnie Cray is the connection between Karla and The Mole. In exchange a connection to an Afghani heroin supplies, Kray's gang The Firm provides muscle for Karla's network and passes intelligence back to Moscow Centre.
+
 #### Reggie Kray
 
 Crude, brutal, feared.
@@ -206,7 +231,7 @@ A closeted homosexual and frequenter of the West End Nightclub. Being blackmaile
 
 Real name, Caity Burns.
 
-A 19 year old East London native who works as a prostitute at the pleasure house. Owes a significant outstanding debt to Reggie Kray.
+A 19 year old East London native who works as a prostitute at the pleasure house. Owes a significant outstanding debt to Reggie Kray in order to keep her sister out of the trade.
 
 ## Copyright
 

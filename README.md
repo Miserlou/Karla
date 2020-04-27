@@ -140,6 +140,19 @@ In the final scene of a campaign, the players will have an opportunity to expose
 
 There will then be a vote. Each player gets one vote for any of the nominated traitors. The person with the most votes is then nominated as the traitor (if there is a tie, then the Spy Master casts the deciding vote). The Spy Master then asks - "So, are you the traitor?" If so, they must reveal themself and are captured, and the group completes the campaign successfully and is given a bonus. If not, then the group fails the campaign and is given no reward. 
 
+### Players versus Players 🔪
+
+The only real restrictions on player actions are related to actions against other players. Specifically:
+
+* Players cannot see or modify the private inventories of other players.
+* Players cannot use violence or permanently hindering actions against other players without their permission.
+
+Since the drama of the game comes from the imbalance of information, allowing players to see or modify the private inventories of other players would spoil the fun. 
+
+Similarly, if players were allowed to use violence against other players, they could simply try to kill the other players in order to accomplish their goals, which isn't very sporting. 
+
+There may be situations where players want to use violence against other players in order to further a ruse, which is allowed as long as the other player agrees.
+
 <!--## Gameplay 🎲
 
 ### Exploration 🔍
