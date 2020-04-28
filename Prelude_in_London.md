@@ -161,7 +161,7 @@ After likely fumbling around in the front trying to get information out of the b
 
 In the back, Charlie sits in a makeshift courtroom in full wig and robes, running a mock trial of a man who has been avoiding paying a gambling debt to them. They cut pieces off of him and electrocute him with a radio battery left over from the war. "Who enters my courtroom?"
 
-Eventually, a man runs in and tells Charlie that the police are about to arrive. Charlie asks the players to help the man down. If players assist in cleaning up the situation, he'll help them by telling them about the Krays, how they took over the underground with muscle, heroin, gambling and women. If they don't help him, then they can ask the police, who will only tell them the locations of the usual Kray hangouts, _Esmeralda's_ and the _East Oriental_.
+Eventually, a man runs in and tells Charlie that the police are about to arrive. Charlie asks the players to help the man down. If players assist in cleaning up the situation, he'll help them by telling them about the Krays, how they took over the underground with muscle, heroin, gambling and women. Rumours of blackmail, and jobs tailing targets for a special client. If they don't help him, then they can ask the police, who will only tell them the locations of the usual Kray hangouts, _Esmeralda's_ and the _East Oriental_.
 
 #### Action Counters
 
@@ -201,7 +201,23 @@ There is a bartendress, but she's busy and tells you to come back at night. She 
 
 ### East Oriental
 
-#### Protential Actions
+> You walk down the street from The Judge And Jury, north towards the streets of the working class homes. Nestled in a back alley sits a slanted little house with blacked out windows. A tiny sign hangs on the door in faux-Chinese script: _East Orient_.
+
+Inside, a young asian woman greets you. East Orient, any pleasure you like. Behind her is a small bar and lounge where girls and boys flirt with the punters. The girls are white, but wear geisha costumes, the boys are Chinese and shirtless. There is a corridor to the back where there are private rooms behind a bead curtain. A large bald bouncer sits reading a newspaper in a chair by the door.
+
+On the wall next to the bar hangs a framed torn photograph of Ronnie and Reggie Kray. A third person was on the photograph, but has been torn away. A closer inspection will reveal that the words "Ronnie, Reggie and Ray. My beautiful boys." have been written on the back. There's a beautiful rug on the floor, closer inspection reals a tag: "Сделано в Кабуле // Made in Kabul."
+
+She charges ten pounds each to get inside, as your are not members. If you pay a hundred pounds, you can buy a membership which will let you take a peak at the membership list. Boothby is on it. A few punters sit nodded off on the chairs.
+
+One of the girls, Miko, shows interest in the group. She'll pay the most attention to whoever buys her a drink, and offers to take you to take her into the back. She offers you a sniff of heroin from a small vial, and if you accept, she steals all the player's cash. If not, she says she knows you're not just regular punters and tells you to meet her at her apartment tonight. 
+
+If you search the private room, you'll find a camera hidden behind a one-way mirror. In the corridor, one of the doors is marked "Private". If they can pick the lock or steal a key from behind the bar, they can enter and find an array of cameras that point into all of the rooms. There is a roll of film the players can look at the negatives of - Lord Boothby in compromising positions with a young boy.
+
+If the players cause trouble causing property damage or haven't paid their tab for the the women, he will prevent them from leaving. This may lead to violence.
+
+If the player's didn't already get the invitation to her apartment, she meets them outside afterwords and says she knows who they are and invites them back to her apartment tonight.
+
+#### Potential Actions
 
 * Look: Torn Photograph of the Kray Brothers
 * Look (Back Room): Spy Cameras
@@ -211,6 +227,14 @@ There is a bartendress, but she's busy and tells you to come back at night. She 
 
 * 1: Hostess Greeting
 * 6: Beckoning Geisha
+
+#### NPCs
+
+* Hostess
+* 3 punters
+* 3 girls, 2 boys
+* Miko
+* Bouncer
 
 ### Miko's Apartment
 
