@@ -67,9 +67,11 @@ The group wins if they successfully complete Smiley's mission and an individual 
 
 _TL;DR: Players are given Personas and a Mission Assignment. Their advantages come not from statistics, but from the information which is only available to them._
 
-At the beginning of the campaign, each player chooses a Persona and is given a Mission Assignment. 
+At the beginning of the campaign, each player chooses a **Persona** and is given a **Mission Assignment**. 
 
 The Persona gives a description of the character to role play with, but will not affect the result of a players actions - ie, there are no "stats" in this game - though the Spy Master may provide the player with easier dice roll checks based on how well the player is integrating the Persona in the game world.
+
+Personas are just masks which allow players to enter the game world - they are still _themselves_. This means that they should make decisions based on what _they_ think they should do to achieve their objectives, **not what they think _their character would do_**. Similarily, during dialog with any other character, there is no need to say "I say..", they can simply say it as if it were a normal conversation.
 
 The Mission Assignment will contain private goals for that player, and any necessary information and inventory items to achieve that goal.
 
@@ -81,7 +83,9 @@ Note: Since Mission Assignments are intertwined, players who begin a campaign mu
 
 There are very few rules limiting what a player can or cannot do. Players take turns in order, starting from the left of the Spy Master. Players declare their action, and then the Spy Master tells them the result of that action. Occasionally, skilled actions may require a succesful dice roll, as declared by the Spy Master. The majority of actions (_"I search the pockets of the dead body"_) are automatic successes.
 
-Although there are very few rules, the world is not a forgiving one. This is the world of George Smiley, not James Bond. The players are simple men, not gods. Injuries are swift and permanent. Players should try to act realistically and logically, or the world will not be kind to them.
+Although there are very few rules, the world is not a forgiving one. This is the world of George Smiley, not James Bond. The players are simple men, not gods. Injuries are swift and permanent. **Players should try to act realistically and logically**, or the world will not be kind to them. 
+
+Players should try to "play it straight" in the game-world but can be as boisterous and political as they want in the table-world.
 
 ### Mechanics
 
@@ -196,6 +200,9 @@ Some missions may have global action counters, which start at the beginning and 
 - Drunk
 - Old Boy
 - Soldier
+
+### Random Plot Ideas
+- Jackie O gets kidnapped, reemerges as a Patti Hearst type
 
 ### Basic Scene Ideas
 * Tailing a suspect
