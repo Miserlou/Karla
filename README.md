@@ -137,7 +137,7 @@ Only a single player can be placed under suspicion at a time, and placing a new 
 
 ### Exposing Traitors 🐀
 
-In the final scene of a campaign, the players will have an opportunity to expose the traitors of the group. The Spy Master will anounce that it's time for the debrief, and every player will have an opportunity to state their case about who they think the traitor is.
+In the final scene of a campaign, the players will have an opportunity to expose the traitors of the group. The Spy Master will announce that it's time for the debrief, and every player will have an opportunity to state their case about who they think the traitor is.
 
 There will then be a vote. Each player gets one vote for any of the nominated traitors. The person with the most votes is then nominated as the traitor (if there is a tie, then the Spy Master casts the deciding vote). The Spy Master then asks - "So, are you the traitor?" If so, they must reveal themself and are captured, and the group completes the campaign successfully and is given a bonus. If not, then the group fails the campaign and is given no reward. 
 
@@ -189,6 +189,14 @@ Some missions may have global action counters, which start at the beginning and 
 * Magnus White
 * Elliot Brooks
 
+### Persona Ideas
+- Gambler, Trick Dice
+- Goon
+- Dandy
+- Drunk
+- Old Boy
+- Soldier
+
 ### Basic Scene Ideas
 * Tailing a suspect
 * Hunting down a witness
@@ -198,6 +206,8 @@ Some missions may have global action counters, which start at the beginning and 
 * Interrogation
 * Escape
 * Framing and Extortion
+* Finding a Bomb (100 turns)
+* Locating a Kidnapped Agent (50 turns)
 
 ### Basic Locale Ideas
 * Hotel

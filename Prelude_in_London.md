@@ -126,11 +126,11 @@ Hand players clue one: Flight Receipt.
 
 > Кабул в Москву, Москва в Берн, Берн в Лондон
 
-> Scotland Yard didn't have a clue what to make of it, so they handed it over to us. I know your Russian isn't quite as good as it says your cirriculum vitae, so I've had Connie translate it for your convenience. It's a commercial cargo flight receipt: Kabul to Bern, Bern to London. Rugs, it says on the tin, but I doubt Ronnie Cray has too much use for a plane full of rugs. The signature has been torn off so we don't know who exactly received it, but looks like it landed last night. Heathrow has no record of it being picked up. Up and vanished.
+> Scotland Yard didn't have a clue what to make of it, so they handed it over to us. I know your Russian isn't quite as good as it says your cirriculum vitae, so I've had Connie translate it for your convenience. It's a commercial cargo flight receipt: Kabul to Moscow, Moscow to Bern, Bern to London. Rugs, it says on the tin, but I doubt Ronnie Cray has too much use for a plane full of rugs. The signature has been torn off so we don't know who exactly received it, but looks like it landed last night. Heathrow has no record of it being picked up. Up and vanished.
 
-> So, a shipment of pure Soviet heroin somewhere on the streets of London and dead police undercover, and I want you chaps to track down the heroin and find out what the connection to Russia is. If you can take down the crooks running the operation, all the better, but don't get yourselves killed doing Scotland Yard's job for them.
+> So, a shipment of pure Soviet heroin somewhere on the streets of London and dead police undercover in a river, and I want you chaps to track down the heroin and find out what the connection to Russia is. If you can take down the crooks running the operation, all the better, but don't get yourselves killed doing Scotland Yard's job for them.
 
-> Now, the other thing. As you might have heard in the hallways, one of best agents on the other side of the curtain was blown. Barely made it out alive. It seems, chaps, that our ship has sprung a leak. The only people - one of you is playing both sides. Keep an eye out for any funny business and report back to me with your findings once you've cleaned up the mess.
+> Now, the other thing. As you might have heard in the hallways, one of best agents on the other side of the curtain was blown. Barely made it out alive. It seems, chaps, that our ship has sprung a leak. The only people who knew his real identity are all in this room - so it seems that one of you is playing both sides. Keep an eye out for any funny business and report back to me with your findings once you've cleaned up the mess.
 
 > We can't get near the Krays, but the birdies are chirping that the Krays have muscled out Charlie Richardson and his so called Torture Gang - a lovely lot, I'm sure - to take over everything south of river, East and West London under a single boss. The enemy of our enemy is our friend, as you all know by now, so go and see Charlie and see what you can find out on the Krays. I've put a thousand pounds in to your coffers, spend it wisely.
 
@@ -149,6 +149,20 @@ Hand players clue one: Flight Receipt.
 
 ### The Judge and Jury
 
+> You hail a black cab and cross the river to Southeast London. Looking out the window, you see the houses start to crumble bit by bit as you get further from the economic heart of the city and deeper into the industrial zones. Eventually houses become factories, then become bombed out warehouses that were never rebuilt after the blitz.
+
+> Eventually, the cab stops and drops you off in front of a delapidated pub with boarded up windows: The Judge and Jury, the last haunt of Torture Gang.
+
+> The taxi driver says, "ten bob."
+
+The bar is smokey and dark, the wallpaper peeling off the walls. The regular crowd sitting at the bar turn their heads when you walk in. There is a black door in the back of the room.
+
+After likely fumbling around in the front trying to get information out of the bartender, ordering drinks, trying to ingratiate themselves to the local punters, they'll be attracted to the sounds of screaming coming from the back room.
+
+In the back, Charlie sits in a makeshift courtroom in full wig and robes, running a mock trial of a man who has been avoiding paying a gambling debt to them. They cut pieces off of him and electrocute him with a radio battery left over from the war. "Who enters my courtroom?"
+
+Eventually, a man runs in and tells Charlie that the police are about to arrive. Charlie asks the players to help the man down. If players assist in cleaning up the situation, he'll help them by telling them about the Krays, how they took over the underground with muscle, heroin, gambling and women. If they don't help him, then they can ask the police, who will only tell them the locations of the usual Kray hangouts, _Esmeralda's_ and the _East Oriental_.
+
 #### Action Counters
 
 * 2: The regulars start becoming hostile
@@ -156,16 +170,36 @@ Hand players clue one: Flight Receipt.
 * 8: The police are coming
 * 10: Two local policemen arrive
 
-### West End Club (Day)
+#### NPCs
 
-#### Possible 
+##### Front Of House
+* Bartender (Young, Scruffy Suit)
+* Three old regulars at the bar, grey haired and gammon faced.
+
+#### Back of House
+* Charlie, wearing a judge's robe and wigs
+* A shirtless man, dangling by his feet from a rope to the ceiling.
+* Six roughs, sitting in a make-shift jury box
+* Eventually, one more rough and three policemen shortly after
+
+### Esmeralda's Barn (Day)
+
+> The taxi takes you west towards the bustling West side of London. Young people walk along the streets in their sharp suits and colorful dresses. You arrive at a large building with a grand marquee: Esmerelda's.
+
+The club is vibrantly lit, but empty. Bright red drapes line the walls and golden chandeliers hang from the ceilings. Empty glasses and detritus are scattered around on soiled tablecoths.
+
+There is a bartendress, but she's busy and tells you to come back at night. She scoffs at the idea of Ronnie being there right now, especially after the night he had. Eventually a fat old man in a suit comes in to retreive a briefcase he left there last night. She calls him "me lord." His friendly, but doesn't want to engage in too much, but tells you to vote Conservative as his makes his exit.
+
+#### NPCs
+
+* Bartendress, polite, but confused why players would be in a member's only club during the day. Come back at night.
+* Lord Boothby, fat and cheerful.
 
 #### Action Counters
 
  * 3: Lord Boothby arrives to fetch his wallet
- * 
 
-### East End Pleasure House
+### East Oriental
 
 #### Protential Actions
 
