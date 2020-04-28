@@ -238,13 +238,25 @@ If the player's didn't already get the invitation to her apartment, she meets th
 
 ### Miko's Apartment
 
-#### Possible Actions
+(If your players need a break, now is a good time.)
+
+> Night has fallen over the city. Your taxi pulls up on the shabbiest building on a nice block on the very edge of the West End. You walk up five flights of stairs and knock on the door.
+
+Miko's apartment is tiny, only a kitchen and a bedroom. She isn't wearing her wig anymore. If players search, they can find a small vial of heroin sitting by her small bar. She tells the players her story of Reggie seeing a profitable interest in her underage sister, and her agreeing to work off her debt to Reggie. She knows about the blackmail operation, the shipment, and that there is a Russian connection. She'll tell you for 200, 500 and 1000, respectively.
+
+After a few rounds of dialog, Reggie's goons arrive, demanding she get back to work. If players keep talking or make loud actions, they demand an extra payment or they'll tell Reggie that you've been skipping work to take private clients on the side. She shows them a fire escape.
+
+If they don't know, she'll yell at the players as they leave. If they defend her, she'll tell them everything she knows. If they leave out of the fire escape, she'll yell at them about the Warehouse on the river.
 
 #### Action Counters
 
 6: Reggie Kray's goons arrive. Miko shows fire escape.
 7: Goons knock harder.
 9: Goons knock down door.
+
+#### NPCs
+
+* Three goons.
 
 ### Warehouse
 
