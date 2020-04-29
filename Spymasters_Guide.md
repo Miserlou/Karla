@@ -28,5 +28,11 @@
 * Two Truths and a Lie
 * Misdirection and Red Herrings
 * Art, Not Science
+* Hidden in Plain Sight
+* Word Games and Cyphers
 
 ## Historical Lore
+
+## Misc
+
+* https://jerz.setonhill.edu/if/Puzzles.htm

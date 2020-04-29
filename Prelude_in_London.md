@@ -47,7 +47,7 @@ Your mission: Find the mole! To complete your mission, you must:
 
 #### You're a Crook's Brother!
 
-Unbeknownst to the Circus, you're the third brother of the Kray brothers who now run the London underworld. You've had to change your name to work at the Circus and you're still loyal to your country, but blood runs thicker than water. Protect your brothers from being killed or captured!
+Unbeknownst to the Circus, you're the long-lost third brother of the Kray brothers who now run the London underworld. You've had to change your name to work at the Circus and you're still loyal to your country, but blood runs thicker than water. Still, if your secret is found out, you could lose your contract with the circus. Protect your brothers from being killed or captured!
 
 Your mission: Keep your brothers safe! To complete your mission succesfully, you must:
 
@@ -63,6 +63,7 @@ Your mission: Keep your brothers safe! To complete your mission succesfully, you
 * Gordon's Dry Gin, 1 pint
 * Poloroid Camera
 * Jack Knife (Sleeve)
+* Balaclava (Ski Mask)
 
 #### You are the Mole!
 
@@ -80,7 +81,7 @@ Your mission: Sabotage a mission objective of the group and avoid detection! To 
 * Benson and Hedges Cigarettes
 * Microfilm Camera
 * Microfilm Viewer
-* Cyanide Capsule (4 Action Counter Effect)
+* Cyanide Capsule (10 Action Counter Effect)
 
 #### You're a Junkie!
 
@@ -260,25 +261,50 @@ If they don't know, she'll yell at the players as they leave. If they defend her
 
 ### Warehouse
 
+> The night is pitch black zone, and the industrial zone of East London is desolate. The only sound is the sloshing of the waves of the Thames. The taxi driver quickly hurries away after you pay him. Standing before you is a vast grey warehouse. The steel door at the front is rolled down, locked from the inside. 
+
+There's no lock to pick, and no way to get in the front. If players walk around the building, they can hear music coming from an upstairs window. There's a pipe they can try to climn and a locked door. Either will lead to a small landing with a door to Reggie's office. Inside, Reggie Kray sits nodded off on his next to a large brown pile. One of the young boys you saw at the pleasure house sleeps on a sofa against the wall. Behind Kray, there is a massive metal safe. Piles of large, ornate rugs are rolled and stacked against every wall.
+
+If the players make noise or fail a skilled action check while cracking the safe, he'll stir. It'll take him an action counter to regain his composure, at which point he'll demand to know who the hell you are. If you can't come up with a good explanation, he'll reach for his gun. If they can disarm him, he'll try to make a deal.
+
+He's come into conflict with his brother over how to run the business - he wants to be the boss of all bosses, his brother seems more interested in having posh, glamorous friends and getting his picture in the tabloids. He's been sidelined - just a glorified security guard for a heroin stash.
+
+In exchange for you killing his brother and leaving him as the king of London underground, he'll agree to work for you, mapping out Karla's network of the London underground that Reggie is helping him build on the West end.
+
+As you leave, a gunshot as he shoots the boy. "Now it's just between us."
+
 #### Possible Actions
 
 #### Action Counters
 
-### West End Club (Night)
+#### NPCs
 
-#### Possible Actions
+* Reggie Kray
+* Reggie's Boy Toy
+
+### Esmeralda's
+
+> Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. One of them has Lord Boothby and two other gentlemen flirting with three much younger girls. Ronnie Kray circles the room, accompanied by his four body guards, chatting up all the guests and drinking a glass of champagne.
+
+If players try to drug or attack Kray, any roll other than a 6 fails, and the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with bats. 
+
+If players helped Charlie in the first act, his gang will storm the club and kill Kray. If not, the though he'll spare the player who he recognizes as his long lost brother (expose them!) If the players used the cyanide to poison him, he'll know that player is Karla's mole, and save them - they other two he'll hand over to Karla for torture.
 
 #### Action Counters
 
-### West End Club Back Room
+* 3: Ronnie stops to talk with Lord Boothby.
+* (if helped Richardson): Attack by the Torture Gang to save the players.
+* (if they didn't): 8 turns until the remaining players are knocked out and turned over or Karla.
 
-#### Possible Actions
+### Debrief!
 
-#### Action Counters
+> Gentlemen! I'm glad to see you're all in one piece. Mission accomplished, I hope?
 
-* 7 (if helped Richardson): Attack by the Torture Gang
+> Now - that other piece of nasty business. What have you learned about the integrity of our group - who do you think the Mole is?
 
-### Debrief
+At this point players can nominate a .
+
+Congratulations, the game is over!
 
 ### Non-Player Characters
 
