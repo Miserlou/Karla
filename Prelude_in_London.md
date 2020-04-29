@@ -271,7 +271,7 @@ He's come into conflict with his brother over how to run the business - he wants
 
 In exchange for you killing his brother and leaving him as the king of London underground, he'll agree to work for you, mapping out Karla's network of the London underground that Reggie is helping him build on the West end.
 
-As you leave, a gunshot as he shoots the boy. "Now it's just between us."
+As you leave, a gunshot sounds out as he shoots the boy. "Now it's just between us," he laughs maniacly.
 
 #### Possible Actions
 
@@ -288,7 +288,9 @@ As you leave, a gunshot as he shoots the boy. "Now it's just between us."
 
 If players try to drug or attack Kray, any roll other than a 6 fails, and the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with cricket bats. 
 
-If players helped Charlie in the first act, his gang will storm the club and kill Kray. If not, he'll talk about himself as the King of London while torturing the players - the though he'll spare the player who he recognizes as his long lost brother - expose them now! The others, he announces, he'll hand over to Karla for torture. 
+If players helped Charlie in the first act, his gang will storm the club - screams as the punters rush out - and Charlie will kill Kray in a gun battle.
+
+If they didn't, Kray will talk with largess about his place as the King of London while torturing the players - the though he'll spare the player who he recognizes as his long lost brother - expose them now! The others, he announces, he'll hand over to Karla for torture - after he's had his turn, of course. Skilled rolls of 6 are required for loosening the ropes. 
 
 Can the players escape before they're captured?
 
