@@ -263,7 +263,9 @@ If they don't know, she'll yell at the players as they leave. If they defend her
 
 > The night is pitch black zone, and the industrial zone of East London is desolate. The only sound is the sloshing of the waves of the Thames. The taxi driver quickly hurries away after you pay him. Standing before you is a vast grey warehouse. The steel door at the front is rolled down, locked from the inside. 
 
-There's no lock to pick, and no way to get in the front. If players walk around the building, they can hear music coming from an upstairs window. There's a pipe they can try to climn and a locked door. Either will lead to a small landing with a door to Reggie's office. Inside, Reggie Kray sits nodded off on his next to a large brown pile. One of the young boys you saw at the pleasure house sleeps on a sofa against the wall. Behind Kray, there is a massive metal safe. Piles of large, ornate rugs are rolled and stacked against every wall.
+There's no lock to pick, and no way to get in the front. If players walk around the building, they can hear music coming from an upstairs window. There's a pipe they can try to climb and a locked door, with a doorbell. Either climbing the pipe or picking the lock will lead to a small landing with a door to Reggie's office. If you ring the doorbell, one of the young boys you saw at the pleasure house answers the boys and wants to know what you want.
+
+Inside, Reggie Kray sits nodded off on his next to a large brown pile. If he didn't answer the door, one of the young boys you saw at the pleasure house sleeps on a sofa against the wall. Behind Kray, there is a massive metal safe. Piles of large, ornate rugs are rolled and stacked against all the walls.
 
 If the players make noise or fail a skilled action check while cracking the safe, he'll stir. It'll take him an action counter to regain his composure, at which point he'll demand to know who the hell you are. If you can't come up with a good explanation, he'll reach for his gun. If they can disarm him, he'll try to make a deal.
 
