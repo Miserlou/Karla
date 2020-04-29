@@ -286,9 +286,11 @@ As you leave, a gunshot as he shoots the boy. "Now it's just between us."
 
 > Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. One of them has Lord Boothby and two other gentlemen flirting with three much younger girls. Ronnie Kray circles the room, accompanied by his four body guards, chatting up all the guests and drinking a glass of champagne.
 
-If players try to drug or attack Kray, any roll other than a 6 fails, and the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with bats. 
+If players try to drug or attack Kray, any roll other than a 6 fails, and the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with cricket bats. 
 
-If players helped Charlie in the first act, his gang will storm the club and kill Kray. If not, the though he'll spare the player who he recognizes as his long lost brother (expose them!) If the players used the cyanide to poison him, he'll know that player is Karla's mole, and save them - they other two he'll hand over to Karla for torture.
+If players helped Charlie in the first act, his gang will storm the club and kill Kray. If not, he'll talk about himself as the King of London while torturing the players - the though he'll spare the player who he recognizes as his long lost brother - expose them now! The others, he announces, he'll hand over to Karla for torture. 
+
+Can the players escape before they're captured?
 
 #### Action Counters
 
@@ -302,9 +304,9 @@ If players helped Charlie in the first act, his gang will storm the club and kil
 
 > Now - that other piece of nasty business. What have you learned about the integrity of our group - who do you think the Mole is?
 
-At this point players can nominate a .
+At this point players can nominate a candidate as the Mole. Did you guess him right?
 
-Congratulations, the game is over!
+Congratulations, the game is over! Thanks for playing.
 
 ### Non-Player Characters
 
