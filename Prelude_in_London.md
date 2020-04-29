@@ -284,9 +284,11 @@ As you leave, a gunshot sounds out as he shoots the boy. "Now it's just between 
 
 ### Esmeralda's
 
-> Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. One of them has Lord Boothby and two other gentlemen flirting with three much younger girls. Ronnie Kray circles the room, accompanied by his four body guards, chatting up all the guests and drinking a glass of champagne.
+> Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. One of them has Lord Boothby and two other gentlemen flirting with three much younger girls.
 
-If players try to drug or attack Kray, any roll other than a 6 fails, and the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with cricket bats. 
+Once he appears form the back, Ronnie Kray circles the room, accompanied by his four body guards, chatting up all the guests and drinking a glass of champagne.
+
+If players try to drug or attack Kray, any roll other than a 6 fails, and regardless of the success, the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with cricket bats. 
 
 If players helped Charlie in the first act, his gang will storm the club - screams as the punters rush out - and Charlie will kill Kray in a gun battle.
 
@@ -296,7 +298,8 @@ Can the players escape before they're captured?
 
 #### Action Counters
 
-* 3: Ronnie stops to talk with Lord Boothby.
+* 6: Ronnie emerges from a back room.
+* 9: Ronnie stops to talk with Lord Boothby.
 * (if helped Richardson): Attack by the Torture Gang to save the players.
 * (if they didn't): 8 turns until the remaining players are knocked out and turned over or Karla.
 
