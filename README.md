@@ -217,6 +217,7 @@ Some missions may have global action counters, which start at the beginning and 
 	- Pull a Job
 * Nazi Hunting!
 * Counterintelligence - Finding a moving target around locations
+* Maybe: Single-use game-breaking items. Intercept whispers, see covert actions, view private clues of other players.
 
 ### Basic Scene Ideas
 * Tailing a suspect
