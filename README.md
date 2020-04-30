@@ -26,6 +26,7 @@ The other primary difference is that consequences in the game story are not the 
   - [Public and Private Inventories 📝](#public-and-private-inventories-%F0%9F%93%9D)
   - [Cash 💷](#cash-%F0%9F%92%B7)
   - [Covert Actions 🤫](#covert-actions-%F0%9F%A4%AB)
+  - [Whispers 🤫](#whispers-%F0%9F%A4%AB)
   - [Combat 🔫](#combat-%F0%9F%94%AB)
   - [Connie Sachs 🍸](#connie-sachs-%F0%9F%8D%B8)
   - [Under Suspicion 👀](#under-suspicion-%F0%9F%91%80)
@@ -37,6 +38,8 @@ The other primary difference is that consequences in the game story are not the 
 - [TODO](#todo)
 - [Miscellaneous Notes](#miscellaneous-notes)
   - [Some Persona Names](#some-persona-names)
+  - [Persona Ideas](#persona-ideas)
+  - [Random Plot Ideas](#random-plot-ideas)
   - [Basic Scene Ideas](#basic-scene-ideas)
   - [Basic Locale Ideas](#basic-locale-ideas)
   - [Basic Inventory Ideas](#basic-inventory-ideas)
@@ -118,6 +121,12 @@ Once per scene, a player may perform a covert action. The player writes down the
 If it's a skilled covert action then it may require a dice roll. If the action is rejected outright, the player may perform a different action.
 
 (ex., _A player states, "I wish to perform this covert action." (Hands Spy Master paper with "I Put The Poison in the Tea" written on it.) The Spy Master says "accepted, roll." The player rolls a six. The Spy Master says, "The action succeeds."_)
+
+### Whispers 🤫
+
+On any turn, players may send a **whisper** to another player. The player writes their message, places it in an envelope and passes it to another player. The receiving player may then write a reply and pass it back to them.
+
+(ex., _Dave writes, "I think Sara is the mole! She lied when she said she had the codex, because I have it!" (Hands James the message in an envelope.) James writes, "I think so too! Let's put her under suspicion!" and hands it back._)
 
 ### Combat 🔫
 
