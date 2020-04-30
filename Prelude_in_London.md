@@ -183,7 +183,7 @@ Eventually, a man runs in and tells Charlie that the police are about to arrive.
 * Six roughs, sitting in a make-shift jury box
 * Eventually, one more rough and three policemen shortly after
 
-### Esmeralda's Barn (Day)
+### Esmeralda's (Day)
 
 > The taxi takes you west towards the bustling West side of London. Young people walk along the streets in their sharp suits and colorful dresses. You arrive at a large building with a grand marquee: Esmerelda's.
 
@@ -286,7 +286,7 @@ As you leave, a gunshot sounds out as he shoots the boy. "Now it's just between 
 * Reggie Kray
 * Reggie's Boy Toy
 
-### Esmeralda's
+### Esmeralda's (Night)
 
 > Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people on the dance floor are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. 
 
