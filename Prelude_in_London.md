@@ -71,7 +71,7 @@ After one of The Firm's goons recognized you in one of your occasional jaunts to
 
 Your mission: Sabotage a mission objective of the group and avoid detection! To complete your mission succesfully, you must
 
-* a) prevent the group from completing all of their mission objectives and 
+* a) prevent the group from completing all of their mission objectives (Protect Ronnie Kray!) 
 * b) remain undetected during the debrief.
 
 ##### Starting Inventory
@@ -150,7 +150,7 @@ Hand players clue one: Flight Receipt.
 
 ### The Judge and Jury
 
-> You hail a black cab and cross the river to Southeast London. Looking out the window, you see the houses start to crumble bit by bit as you get further from the economic heart of the city and deeper into the industrial zones. Eventually houses become factories, then become bombed out warehouses that were never rebuilt after the blitz.
+> You hail a black cab and cross the river to Southeast London. Looking out the window, you see the houses start to crumble bit by bit as you get further from the economic heart of the city and deeper into the industrial zones. Eventually houses become factories, then factories become bombed out warehouses that were never rebuilt after the blitz.
 
 > Eventually, the cab stops and drops you off in front of a delapidated pub with boarded up windows: The Judge and Jury, the last haunt of Torture Gang.
 
@@ -267,13 +267,15 @@ There's no lock to pick, and no way to get in the front. If players walk around 
 
 Inside, Reggie Kray sits nodded off on his next to a large brown pile. If he didn't answer the door, one of the young boys you saw at the pleasure house sleeps on a sofa against the wall. Behind Kray, there is a massive metal safe. Piles of large, ornate rugs are rolled and stacked against all the walls.
 
-If the players make noise or fail a skilled action check while cracking the safe, he'll stir. It'll take him an action counter to regain his composure, at which point he'll demand to know who the hell you are. If you can't come up with a good explanation, he'll reach for his gun. If they can disarm him, he'll try to make a deal.
+If the players make noise or fail a skilled action check while cracking the safe, he'll stir. If they search his desk, they'll find the combination: "36-24-36. So you won't forget this time! -Ronnie." Inside: 10 individually wrapped kilograms of heroin, ready for distribution, a few scandalous photographs, and a dossier. The dossier is a faximile of meeting notes from a briefing inside the Circus, Top Secret. Once the safe is looted, he'll wake up.
+
+It'll take him an action counter to regain his composure, at which point he'll demand to know who the hell you are. If you can't come up with a good explanation, he'll reach for his gun. If they can disarm him, he'll try to make a deal.
 
 He's come into conflict with his brother over how to run the business - he wants to be the boss of all bosses, his brother seems more interested in having posh, glamorous friends and getting his picture in the tabloids. He's been sidelined - just a glorified security guard for a heroin stash.
 
 In exchange for you killing his brother and leaving him as the king of London underground, he'll agree to work for you, mapping out Karla's network of the London underground that Reggie is helping him build on the West end.
 
-As you leave, a gunshot sounds out as he shoots the boy. "Now it's just between us," he laughs maniacly.
+As you leave, a gunshot sounds out as he shoots the boy. "Now it's just between us," he laughs maniacly, and unrolls a rug.
 
 #### Possible Actions
 
@@ -286,15 +288,17 @@ As you leave, a gunshot sounds out as he shoots the boy. "Now it's just between 
 
 ### Esmeralda's
 
-> Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. One of them has Lord Boothby and two other gentlemen flirting with three much younger girls.
+> Esmeralda's is booming. The champagne is flowing, the band is on fire tonight and the pretty young people on the dance floor are all dressed to the nines. Posh older folks sit in booths against the walls, the men in tuxedos and the women in gowns. 
 
-Once he appears form the back, Ronnie Kray circles the room, accompanied by his four body guards, chatting up all the guests and drinking a glass of champagne.
+If they look around, you'll see that one of them has Lord Boothby and two other gentlemen flirting with three much younger girls. You'll also notice that you're underdressed, and that the bouncers have noticed too. If you didn't save Mika, you'll see her in a booth with a fat, gammon faced old man, her face obviously bruised and her lip split, hurridly covered with make up. If they did, she'll be dressed up and on the dance floor with a young suitor.
+
+Once he appears from the back, Ronnie Kray circles the room, accompanied by his four body guards, chatting up all the guests and drinking a glass of champagne. If they introduce themselves as anybody other than who they are, he'll laugh and wink.
 
 If players try to drug or attack Kray, any roll other than a 6 fails, and regardless of the success, the bodyguards will grab the players and drag them into the back of the club, where 12 of his men are waiting. They'll tie the players to chairs and start hitting them with cricket bats. 
 
-If players helped Charlie in the first act, his gang will storm the club - screams as the punters rush out - and Charlie will kill Kray in a gun battle.
+Kray will talk with largess about his place as the King of London while torturing the players - though he'll spare the player who he recognizes as his long lost brother - expose them now! The others, he announces, he'll hand over to Karla for torture - after he's had his turn, of course. Skilled rolls of 6 are required for loosening the ropes. 
 
-If they didn't, Kray will talk with largess about his place as the King of London while torturing the players - the though he'll spare the player who he recognizes as his long lost brother - expose them now! The others, he announces, he'll hand over to Karla for torture - after he's had his turn, of course. Skilled rolls of 6 are required for loosening the ropes. 
+If players helped Charlie in the first act, his gang will storm the club - gunshots, then screams as the punters rush out - and Charlie will kill Kray in a gun battle. "The King of London!" Mika will be killed in the cross-fire.
 
 Can the players escape before they're captured?
 
