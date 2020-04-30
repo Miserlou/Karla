@@ -203,6 +203,11 @@ Some missions may have global action counters, which start at the beginning and 
 
 ### Random Plot Ideas
 - Jackie O gets kidnapped, reemerges as a Patti Hearst type
+* Supporting a Defection (Misdirection!) ala Funeral in Berlin
+	- Assemble a Crew
+	- Pull a Job
+* Nazi Hunting!
+* Counterintelligence - Finding a moving target around locations
 
 ### Basic Scene Ideas
 * Tailing a suspect
