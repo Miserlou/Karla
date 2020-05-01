@@ -218,6 +218,7 @@ Some missions may have global action counters, which start at the beginning and 
 * Nazi Hunting!
 * Counterintelligence - Finding a moving target around locations
 * Maybe: Single-use game-breaking items. Intercept whispers, see covert actions, view private clues of other players.
+* Maybe: Overnight actions, all players write in. Calling for votes.
 
 ### Basic Scene Ideas
 * Tailing a suspect
