@@ -25,8 +25,11 @@ _
 - [ ] Intercept a Whisper
 - [ ] Interrogate an NPC
 - [ ] Kill a Baddie!
+- [ ] Show Mercy to an Enemy
+- [ ] Use Consentual Violence Against Another Player
 - [ ] Acquire $10,000 for the Treasury
 - [ ] Trick Another Player into Perfoming An Action Against the Mission
+- [ ] Behind the Curtain - Play Campaigns in the East and West
 
 ## Personas Used
 

@@ -82,6 +82,10 @@ The contents of a player's Mission Assignments is unknown to the Spy Master (tho
 
 Note: Since Mission Assignments are intertwined, players who begin a campaign must always be present to continue that campaign, unless the campaign is a "one-shot."
 
+#### Player Sheets
+
+All new players are given a **player sheet**. Player sheets are _permanent_. Allow players to track all of their mission results and to earn commendations for performing various achievements during play.
+
 ## Rules
 
 There are very few rules limiting what a player can or cannot do. Players take turns in order, starting from the left of the Spy Master. Players declare their action, and then the Spy Master tells them the result of that action. Occasionally, skilled actions may require a succesful dice roll, as declared by the Spy Master. The majority of actions (_"I search the pockets of the dead body"_) are automatic successes.
