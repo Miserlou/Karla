@@ -5,7 +5,7 @@
 
 _
 
-## Victories
+## Medals
 
 - [ ] Achieve Team Victory
 - [ ] Achieve Team Victory
@@ -18,7 +18,7 @@ _
 - [ ] Accomplish All Personal Missions
 - [ ] Uncover The Mole!
 
-## Medals
+## Commendations
 
 - [ ] Perform a Covert Action
 - [ ] Place Another Player Under Suspicion
