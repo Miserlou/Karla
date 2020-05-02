@@ -84,7 +84,7 @@ Note: Since Mission Assignments are intertwined, players who begin a campaign mu
 
 #### Player Sheets
 
-All new players are given a **player sheet**. Player sheets are _permanent_. Allow players to track all of their mission results and to earn commendations for performing various achievements during play.
+All new players are given a **player sheet**. Player sheets are _permanent_. It allows players to track all of their mission results and to earn commendations for performing various achievements during play.
 
 ## Rules
 
@@ -198,7 +198,7 @@ Some missions may have global action counters, which start at the beginning and 
 * Come up with a "One Shot" (_Prelude in London_)
 * Write up the "Five Shot" (_The Swiss Fiasco_, _Smiley's Gambit_, _Centre of the Centre_, _Boss of all Bosses_, _The Crystal Tower_)
 * Player Sheets, Achievements
-* Intercepts, Interrupt Mechanics
+* Intercepts, Interrupt Mechanics, Bonus Actions, Seat Shuffle, Counter Actions
 
 ## Miscellaneous Notes
 
@@ -220,7 +220,7 @@ Some missions may have global action counters, which start at the beginning and 
 - Soldier
 
 ### Random Plot Ideas
-- Jackie O gets kidnapped, reemerges as a Patti Hearst type
+* Jackie O gets kidnapped, reemerges as a Patti Hearst type
 * Supporting a Defection (Misdirection!) ala Funeral in Berlin
 	- Assemble a Crew
 	- Pull a Job
