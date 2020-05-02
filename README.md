@@ -193,6 +193,8 @@ Some missions may have global action counters, which start at the beginning and 
 * Devise a quarantine-specific set of rule modifications
 * Come up with a "One Shot" (_Prelude in London_)
 * Write up the "Five Shot" (_The Swiss Fiasco_, _Smiley's Gambit_, _Centre of the Centre_, _Boss of all Bosses_, _The Crystal Tower_)
+* Player Sheets, Achievements
+* Intercepts, Interrupt Mechanics
 
 ## Miscellaneous Notes
 
@@ -201,6 +203,9 @@ Some missions may have global action counters, which start at the beginning and 
 * Henry Cooper
 * Magnus White
 * Elliot Brooks
+* Rock Hunter (no)
+* Arnold Crane
+* Samantha Sartour
 
 ### Persona Ideas
 - Gambler, Trick Dice
@@ -215,10 +220,12 @@ Some missions may have global action counters, which start at the beginning and 
 * Supporting a Defection (Misdirection!) ala Funeral in Berlin
 	- Assemble a Crew
 	- Pull a Job
-* Nazi Hunting!
+* Nazi Hunting! (Of course, the Nazi is an American asset).
 * Counterintelligence - Finding a moving target around locations
 * Maybe: Single-use game-breaking items. Intercept whispers, see covert actions, view private clues of other players.
 * Maybe: Overnight actions, all players write in. Calling for votes.
+* Betrayal for money by a middleman or agency employ. (Non-mole PC)
+* Inverse 'Funeral in Berlin'
 
 ### Basic Scene Ideas
 * Tailing a suspect
@@ -298,3 +305,4 @@ Some missions may have global action counters, which start at the beginning and 
 * Knife
 * Duck Tape
 * Rappelling Grappel
+* Bludgeon

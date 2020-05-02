@@ -12,6 +12,7 @@
 * Going Deep
 * Dead ends?
 * Synthesis
+* Conspiracies as Sub Graphs (The reason for the initial action is part of the conspiracy)
 
 ## Elements of a Scene
 
